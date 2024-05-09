@@ -2,6 +2,9 @@
 
 This project explores the foundations of robot navigation in a simulated grid-based environment, using the A* search algorithm. It serves as a step towards understanding the complexities of AI-powered movement in the physical world. It highlights the importance of efficient and reliable pathfinding algorithms for navigating physical spaces. As we develop increasingly sophisticated robots, pathfinding solutions will need to adapt to complex, dynamic environments and leverage more advanced AI techniques.
 
+## Image of sample Robot path using matplotlib
+![Robot-Path](https://github.com/Akira6713/robot-navigation/assets/66973202/19b7c159-fbcd-4b24-a314-08549b3f960c)
+
 ## Overview
 
 The robot navigation system aims to find an optimal path for a simulated robot to travel from a starting point to a goal position within a map containing obstacles.
